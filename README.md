@@ -4,10 +4,10 @@
 # info_device.txt
 info_device.txt는 디바이스의 전체적인 정보를 가지는 설정 파일입니다.
 ```
-uuid // 디바이스 ID
-data path // 데이터 폴더 위치
-cert path // 인증서 폴더 위치
-DBMS // 사용하는 DBMS
+uuid // 디바이스 ID.
+data path // 데이터 폴더 위치.
+cert path // 인증서 폴더 위치.
+DBMS // 사용하는 DBMS.
 database,table,id,password // 데이터베이스, 테이블명, 사용자ID, 사용자PW ','로 구분
 mode // upnp or master or slave upnp일시 처음 접속하는 디바이스가 master 나머지는 slave
 device IP // 디바이스IP or auto auto
